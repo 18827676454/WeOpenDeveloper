@@ -1,14 +1,12 @@
 {
   "type": "library",
-  "name": "zoujingli/weopen-developer",
-  "homepage": "https://github.com/zoujingli/WeOpenDeveloper",
+  "name": "randy/weopen-developer",
   "description": "WeChat Open development of SDK",
   "license": "MIT",
   "authors": [
     {
-      "name": "Anyon",
-      "email": "zoujingli@qq.com",
-      "homepage": "http://ctolog.com"
+      "name": "randy",
+      "email": "284431745@qq.com"
     }
   ],
   "keywords": [
@@ -21,7 +19,7 @@
     "ext-curl": "*",
     "ext-json": "*",
     "ext-openssl": "*",
-    "zoujingli/wechat-developer": "^1.0"
+    "randy/wechat-tool": "^0.1"
   },
   "autoload": {
     "psr-4": {
@@ -31,3 +29,4 @@
     }
   }
 }
+
