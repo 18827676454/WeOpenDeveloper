@@ -19,7 +19,7 @@
     "ext-curl": "*",
     "ext-json": "*",
     "ext-openssl": "*",
-    "randy/wechat-tool": "^0.4"
+    "randy/wechat-tool": "^0.4.0"
   },
   "autoload": {
     "psr-4": {
@@ -29,5 +29,3 @@
     }
   }
 }
-
-
