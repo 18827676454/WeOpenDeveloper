@@ -18,8 +18,7 @@
     "php": ">=5.4",
     "ext-curl": "*",
     "ext-json": "*",
-    "ext-openssl": "*",
-    "randy/wechat-tool": "^0.4.0"
+    "ext-openssl": "*"
   },
   "autoload": {
     "psr-4": {
